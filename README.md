@@ -1,0 +1,5 @@
+Scriptul afișează data și ora curente într-un format de numeral roman, inclusiv ora, minutele, secunde, ziua lunii, luna și anul. Valorile temporale sunt calculate și convertite în numerale romane, iar rezultatele sunt afișate într-un format lizibil. Fișierele temporare sunt utilizate pentru conversia numerelor și sunt șterse la final pentru a menține curățenia sistemului.
+
+El script muestra la fecha y hora actuales en formato de numerales romanos, incluyendo la hora, los minutos, los segundos, el día del mes, el mes y el año. Los valores temporales se calculan y convierten a numerales romanos, y los resultados se presentan en un formato legible. Los archivos temporales se utilizan para la conversión de los números y se eliminan al final para mantener la limpieza del sistema.
+
+The script displays the current date and time in Roman numeral format, including the hour, minutes, seconds, day of the month, month, and year. Temporal values are calculated and converted to Roman numerals, and the results are presented in a readable format. Temporary files are used for the number conversion and are deleted at the end to maintain system cleanliness.
